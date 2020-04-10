@@ -1,0 +1,15 @@
+html {
+  display: flex;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex: 1;
+  margin: 0;
+}
+
+#canvasSvg {
+  flex: 1;
+  user-select: none;
+}
